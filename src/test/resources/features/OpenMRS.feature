@@ -13,3 +13,4 @@ Feature: Open MRS test
       |Year      |1990 |
       |Address   |123 camel lane|
       |Phone     |9199339993    |
+
